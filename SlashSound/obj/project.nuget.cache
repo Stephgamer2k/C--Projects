@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DwzYrvknAwQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\SlashSound\\SlashSound.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nseng\\.nuget\\packages\\system.windows.extensions\\9.0.3\\system.windows.extensions.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

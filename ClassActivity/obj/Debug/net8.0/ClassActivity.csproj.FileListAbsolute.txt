@@ -1,0 +1,14 @@
+C:\Users\nseng\OneDrive\Desktop\C# projects\ClassActivity\bin\Debug\net8.0\ClassActivity.exe
+C:\Users\nseng\OneDrive\Desktop\C# projects\ClassActivity\bin\Debug\net8.0\ClassActivity.deps.json
+C:\Users\nseng\OneDrive\Desktop\C# projects\ClassActivity\bin\Debug\net8.0\ClassActivity.runtimeconfig.json
+C:\Users\nseng\OneDrive\Desktop\C# projects\ClassActivity\bin\Debug\net8.0\ClassActivity.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\ClassActivity\bin\Debug\net8.0\ClassActivity.pdb
+C:\Users\nseng\OneDrive\Desktop\C# projects\ClassActivity\obj\Debug\net8.0\ClassActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nseng\OneDrive\Desktop\C# projects\ClassActivity\obj\Debug\net8.0\ClassActivity.AssemblyInfoInputs.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\ClassActivity\obj\Debug\net8.0\ClassActivity.AssemblyInfo.cs
+C:\Users\nseng\OneDrive\Desktop\C# projects\ClassActivity\obj\Debug\net8.0\ClassActivity.csproj.CoreCompileInputs.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\ClassActivity\obj\Debug\net8.0\ClassActivity.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\ClassActivity\obj\Debug\net8.0\refint\ClassActivity.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\ClassActivity\obj\Debug\net8.0\ClassActivity.pdb
+C:\Users\nseng\OneDrive\Desktop\C# projects\ClassActivity\obj\Debug\net8.0\ClassActivity.genruntimeconfig.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\ClassActivity\obj\Debug\net8.0\ref\ClassActivity.dll

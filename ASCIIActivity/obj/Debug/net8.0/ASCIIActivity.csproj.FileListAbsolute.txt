@@ -1,0 +1,17 @@
+C:\Users\nseng\OneDrive\Desktop\C# projects\ASCIIActivity\bin\Debug\net8.0\ASCIIActivity.exe
+C:\Users\nseng\OneDrive\Desktop\C# projects\ASCIIActivity\bin\Debug\net8.0\ASCIIActivity.deps.json
+C:\Users\nseng\OneDrive\Desktop\C# projects\ASCIIActivity\bin\Debug\net8.0\ASCIIActivity.runtimeconfig.json
+C:\Users\nseng\OneDrive\Desktop\C# projects\ASCIIActivity\bin\Debug\net8.0\ASCIIActivity.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\ASCIIActivity\bin\Debug\net8.0\ASCIIActivity.pdb
+C:\Users\nseng\OneDrive\Desktop\C# projects\ASCIIActivity\bin\Debug\net8.0\Figgle.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\ASCIIActivity\obj\Debug\net8.0\ASCIIActivity.csproj.AssemblyReference.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\ASCIIActivity\obj\Debug\net8.0\ASCIIActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nseng\OneDrive\Desktop\C# projects\ASCIIActivity\obj\Debug\net8.0\ASCIIActivity.AssemblyInfoInputs.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\ASCIIActivity\obj\Debug\net8.0\ASCIIActivity.AssemblyInfo.cs
+C:\Users\nseng\OneDrive\Desktop\C# projects\ASCIIActivity\obj\Debug\net8.0\ASCIIActivity.csproj.CoreCompileInputs.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\ASCIIActivity\obj\Debug\net8.0\ASCIIAct.77CB3A51.Up2Date
+C:\Users\nseng\OneDrive\Desktop\C# projects\ASCIIActivity\obj\Debug\net8.0\ASCIIActivity.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\ASCIIActivity\obj\Debug\net8.0\refint\ASCIIActivity.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\ASCIIActivity\obj\Debug\net8.0\ASCIIActivity.pdb
+C:\Users\nseng\OneDrive\Desktop\C# projects\ASCIIActivity\obj\Debug\net8.0\ASCIIActivity.genruntimeconfig.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\ASCIIActivity\obj\Debug\net8.0\ref\ASCIIActivity.dll

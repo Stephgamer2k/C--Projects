@@ -11,9 +11,9 @@ namespace SocialApp.Controllers
 {
     public class PostController : Controller
     {
-        private readonly SocialMediaDBContext _context;
+        private readonly SocialMediaDbContext _context;
 
-        public PostController(SocialMediaDBContext context)
+        public PostController(SocialMediaDbContext context)
         {
             _context = context;
         }
@@ -21,8 +21,8 @@ namespace SocialApp.Controllers
         // GET: Post
         public async Task<IActionResult> Index()
         {
-            var socialMediaDBContext = _context.Post.Include(p => p.User);
-            return View(await socialMediaDBContext.ToListAsync());
+            var socialMediaDbContext = _context.Posts.Include(p => p.User);
+            return View(await socialMediaDbContext.ToListAsync());
         }
 
         // GET: Post/Details/5
@@ -33,7 +33,7 @@ namespace SocialApp.Controllers
                 return NotFound();
             }
 
-            var post = await _context.Post
+            var post = await _context.Posts
                 .Include(p => p.User)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (post == null)
@@ -47,7 +47,7 @@ namespace SocialApp.Controllers
         // GET: Post/Create
         public IActionResult Create()
         {
-            ViewData["UserId"] = new SelectList(_context.Set<User>(), "Id", "Id");
+            ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id");
             return View();
         }
 
@@ -64,7 +64,7 @@ namespace SocialApp.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["UserId"] = new SelectList(_context.Set<User>(), "Id", "Id", post.UserId);
+            ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id", post.UserId);
             return View(post);
         }
 
@@ -76,12 +76,12 @@ namespace SocialApp.Controllers
                 return NotFound();
             }
 
-            var post = await _context.Post.FindAsync(id);
+            var post = await _context.Posts.FindAsync(id);
             if (post == null)
             {
                 return NotFound();
             }
-            ViewData["UserId"] = new SelectList(_context.Set<User>(), "Id", "Id", post.UserId);
+            ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id", post.UserId);
             return View(post);
         }
 
@@ -117,7 +117,7 @@ namespace SocialApp.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["UserId"] = new SelectList(_context.Set<User>(), "Id", "Id", post.UserId);
+            ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id", post.UserId);
             return View(post);
         }
 
@@ -129,7 +129,7 @@ namespace SocialApp.Controllers
                 return NotFound();
             }
 
-            var post = await _context.Post
+            var post = await _context.Posts
                 .Include(p => p.User)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (post == null)
@@ -145,10 +145,10 @@ namespace SocialApp.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var post = await _context.Post.FindAsync(id);
+            var post = await _context.Posts.FindAsync(id);
             if (post != null)
             {
-                _context.Post.Remove(post);
+                _context.Posts.Remove(post);
             }
 
             await _context.SaveChangesAsync();
@@ -157,7 +157,7 @@ namespace SocialApp.Controllers
 
         private bool PostExists(int id)
         {
-            return _context.Post.Any(e => e.Id == id);
+            return _context.Posts.Any(e => e.Id == id);
         }
     }
 }

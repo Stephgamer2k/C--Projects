@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\C# Projects\\SocialApp\\",
+  "WorkspaceRootPath": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\SocialApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2326A7A6-8E77-4B6C-AD0C-F1DD4FE0FA7E}|SocialApp.csproj|c:\\users\\lab_services_student\\desktop\\c# projects\\socialapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2326A7A6-8E77-4B6C-AD0C-F1DD4FE0FA7E}|SocialApp.csproj|c:\\users\\nseng\\onedrive\\desktop\\c# projects\\socialapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2326A7A6-8E77-4B6C-AD0C-F1DD4FE0FA7E}|SocialApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2326A7A6-8E77-4B6C-AD0C-F1DD4FE0FA7E}|SocialApp.csproj|c:\\users\\nseng\\onedrive\\desktop\\c# projects\\socialapp\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2326A7A6-8E77-4B6C-AD0C-F1DD4FE0FA7E}|SocialApp.csproj|solutionrelative:controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2326A7A6-8E77-4B6C-AD0C-F1DD4FE0FA7E}|SocialApp.csproj|c:\\users\\nseng\\onedrive\\desktop\\c# projects\\socialapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2326A7A6-8E77-4B6C-AD0C-F1DD4FE0FA7E}|SocialApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2326A7A6-8E77-4B6C-AD0C-F1DD4FE0FA7E}|SocialApp.csproj|c:\\users\\lab_services_student\\desktop\\c# projects\\socialapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2326A7A6-8E77-4B6C-AD0C-F1DD4FE0FA7E}|SocialApp.csproj|c:\\users\\nseng\\onedrive\\desktop\\c# projects\\socialapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2326A7A6-8E77-4B6C-AD0C-F1DD4FE0FA7E}|SocialApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2326A7A6-8E77-4B6C-AD0C-F1DD4FE0FA7E}|SocialApp.csproj|c:\\users\\lab_services_student\\desktop\\c# projects\\socialapp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{2326A7A6-8E77-4B6C-AD0C-F1DD4FE0FA7E}|SocialApp.csproj|c:\\users\\nseng\\onedrive\\desktop\\c# projects\\socialapp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2326A7A6-8E77-4B6C-AD0C-F1DD4FE0FA7E}|SocialApp.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2326A7A6-8E77-4B6C-AD0C-F1DD4FE0FA7E}|SocialApp.csproj|c:\\users\\lab_services_student\\desktop\\c# projects\\socialapp\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2326A7A6-8E77-4B6C-AD0C-F1DD4FE0FA7E}|SocialApp.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2326A7A6-8E77-4B6C-AD0C-F1DD4FE0FA7E}|SocialApp.csproj|c:\\users\\lab_services_student\\desktop\\c# projects\\socialapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2326A7A6-8E77-4B6C-AD0C-F1DD4FE0FA7E}|SocialApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,27 +30,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Post.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\C# Projects\\SocialApp\\Models\\Post.cs",
-              "RelativeDocumentMoniker": "Models\\Post.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\C# Projects\\SocialApp\\Models\\Post.cs",
-              "RelativeToolTip": "Models\\Post.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\SocialApp\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\SocialApp\\Controllers\\PostController.cs",
+              "RelativeToolTip": "Controllers\\PostController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T13:14:43.99Z"
+              "WhenOpened": "2025-03-18T13:26:21.013Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\C# Projects\\SocialApp\\Views\\Shared\\_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\SocialApp\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\C# Projects\\SocialApp\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\SocialApp\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -58,11 +59,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\C# Projects\\SocialApp\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\SocialApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\C# Projects\\SocialApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\SocialApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -70,23 +71,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\C# Projects\\SocialApp\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\SocialApp\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\C# Projects\\SocialApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\SocialApp\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-25T14:02:34.692Z"
+              "WhenOpened": "2025-02-25T14:02:34.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\C# Projects\\SocialApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\SocialApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\C# Projects\\SocialApp\\Program.cs",
+              "ToolTip": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\SocialApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,0 +1,14 @@
+C:\Users\nseng\OneDrive\Desktop\C# projects\DIctionariesApp\bin\Debug\net8.0\DIctionariesApp.exe
+C:\Users\nseng\OneDrive\Desktop\C# projects\DIctionariesApp\bin\Debug\net8.0\DIctionariesApp.deps.json
+C:\Users\nseng\OneDrive\Desktop\C# projects\DIctionariesApp\bin\Debug\net8.0\DIctionariesApp.runtimeconfig.json
+C:\Users\nseng\OneDrive\Desktop\C# projects\DIctionariesApp\bin\Debug\net8.0\DIctionariesApp.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\DIctionariesApp\bin\Debug\net8.0\DIctionariesApp.pdb
+C:\Users\nseng\OneDrive\Desktop\C# projects\DIctionariesApp\obj\Debug\net8.0\DIctionariesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nseng\OneDrive\Desktop\C# projects\DIctionariesApp\obj\Debug\net8.0\DIctionariesApp.AssemblyInfoInputs.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\DIctionariesApp\obj\Debug\net8.0\DIctionariesApp.AssemblyInfo.cs
+C:\Users\nseng\OneDrive\Desktop\C# projects\DIctionariesApp\obj\Debug\net8.0\DIctionariesApp.csproj.CoreCompileInputs.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\DIctionariesApp\obj\Debug\net8.0\DIctionariesApp.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\DIctionariesApp\obj\Debug\net8.0\refint\DIctionariesApp.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\DIctionariesApp\obj\Debug\net8.0\DIctionariesApp.pdb
+C:\Users\nseng\OneDrive\Desktop\C# projects\DIctionariesApp\obj\Debug\net8.0\DIctionariesApp.genruntimeconfig.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\DIctionariesApp\obj\Debug\net8.0\ref\DIctionariesApp.dll

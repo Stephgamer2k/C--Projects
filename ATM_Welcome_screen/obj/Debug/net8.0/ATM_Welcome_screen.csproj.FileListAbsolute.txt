@@ -1,0 +1,14 @@
+C:\Users\nseng\OneDrive\Desktop\C# projects\ATM_Welcome_screen\bin\Debug\net8.0\ATM_Welcome_screen.exe
+C:\Users\nseng\OneDrive\Desktop\C# projects\ATM_Welcome_screen\bin\Debug\net8.0\ATM_Welcome_screen.deps.json
+C:\Users\nseng\OneDrive\Desktop\C# projects\ATM_Welcome_screen\bin\Debug\net8.0\ATM_Welcome_screen.runtimeconfig.json
+C:\Users\nseng\OneDrive\Desktop\C# projects\ATM_Welcome_screen\bin\Debug\net8.0\ATM_Welcome_screen.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\ATM_Welcome_screen\bin\Debug\net8.0\ATM_Welcome_screen.pdb
+C:\Users\nseng\OneDrive\Desktop\C# projects\ATM_Welcome_screen\obj\Debug\net8.0\ATM_Welcome_screen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nseng\OneDrive\Desktop\C# projects\ATM_Welcome_screen\obj\Debug\net8.0\ATM_Welcome_screen.AssemblyInfoInputs.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\ATM_Welcome_screen\obj\Debug\net8.0\ATM_Welcome_screen.AssemblyInfo.cs
+C:\Users\nseng\OneDrive\Desktop\C# projects\ATM_Welcome_screen\obj\Debug\net8.0\ATM_Welcome_screen.csproj.CoreCompileInputs.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\ATM_Welcome_screen\obj\Debug\net8.0\ATM_Welcome_screen.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\ATM_Welcome_screen\obj\Debug\net8.0\refint\ATM_Welcome_screen.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\ATM_Welcome_screen\obj\Debug\net8.0\ATM_Welcome_screen.pdb
+C:\Users\nseng\OneDrive\Desktop\C# projects\ATM_Welcome_screen\obj\Debug\net8.0\ATM_Welcome_screen.genruntimeconfig.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\ATM_Welcome_screen\obj\Debug\net8.0\ref\ATM_Welcome_screen.dll

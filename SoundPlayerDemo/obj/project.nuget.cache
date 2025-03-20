@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M5d0S3XYLZ8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\SoundPlayerDemo\\SoundPlayerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nseng\\.nuget\\packages\\system.windows.extensions\\9.0.3\\system.windows.extensions.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

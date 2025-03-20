@@ -1,0 +1,14 @@
+C:\Users\nseng\OneDrive\Desktop\C# projects\OrderingSystem\OrderingSystem\bin\Debug\net8.0\OrderingSystem.exe
+C:\Users\nseng\OneDrive\Desktop\C# projects\OrderingSystem\OrderingSystem\bin\Debug\net8.0\OrderingSystem.deps.json
+C:\Users\nseng\OneDrive\Desktop\C# projects\OrderingSystem\OrderingSystem\bin\Debug\net8.0\OrderingSystem.runtimeconfig.json
+C:\Users\nseng\OneDrive\Desktop\C# projects\OrderingSystem\OrderingSystem\bin\Debug\net8.0\OrderingSystem.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\OrderingSystem\OrderingSystem\bin\Debug\net8.0\OrderingSystem.pdb
+C:\Users\nseng\OneDrive\Desktop\C# projects\OrderingSystem\OrderingSystem\obj\Debug\net8.0\OrderingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nseng\OneDrive\Desktop\C# projects\OrderingSystem\OrderingSystem\obj\Debug\net8.0\OrderingSystem.AssemblyInfoInputs.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\OrderingSystem\OrderingSystem\obj\Debug\net8.0\OrderingSystem.AssemblyInfo.cs
+C:\Users\nseng\OneDrive\Desktop\C# projects\OrderingSystem\OrderingSystem\obj\Debug\net8.0\OrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\OrderingSystem\OrderingSystem\obj\Debug\net8.0\OrderingSystem.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\OrderingSystem\OrderingSystem\obj\Debug\net8.0\refint\OrderingSystem.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\OrderingSystem\OrderingSystem\obj\Debug\net8.0\OrderingSystem.pdb
+C:\Users\nseng\OneDrive\Desktop\C# projects\OrderingSystem\OrderingSystem\obj\Debug\net8.0\OrderingSystem.genruntimeconfig.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\OrderingSystem\OrderingSystem\obj\Debug\net8.0\ref\OrderingSystem.dll
