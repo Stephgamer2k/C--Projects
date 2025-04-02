@@ -1,0 +1,14 @@
+C:\Users\nseng\OneDrive\Desktop\C# projects\DelegateDemo\bin\Debug\net8.0\DelegateDemo.exe
+C:\Users\nseng\OneDrive\Desktop\C# projects\DelegateDemo\bin\Debug\net8.0\DelegateDemo.deps.json
+C:\Users\nseng\OneDrive\Desktop\C# projects\DelegateDemo\bin\Debug\net8.0\DelegateDemo.runtimeconfig.json
+C:\Users\nseng\OneDrive\Desktop\C# projects\DelegateDemo\bin\Debug\net8.0\DelegateDemo.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\DelegateDemo\bin\Debug\net8.0\DelegateDemo.pdb
+C:\Users\nseng\OneDrive\Desktop\C# projects\DelegateDemo\obj\Debug\net8.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nseng\OneDrive\Desktop\C# projects\DelegateDemo\obj\Debug\net8.0\DelegateDemo.AssemblyInfoInputs.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\DelegateDemo\obj\Debug\net8.0\DelegateDemo.AssemblyInfo.cs
+C:\Users\nseng\OneDrive\Desktop\C# projects\DelegateDemo\obj\Debug\net8.0\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\DelegateDemo\obj\Debug\net8.0\DelegateDemo.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\DelegateDemo\obj\Debug\net8.0\refint\DelegateDemo.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\DelegateDemo\obj\Debug\net8.0\DelegateDemo.pdb
+C:\Users\nseng\OneDrive\Desktop\C# projects\DelegateDemo\obj\Debug\net8.0\DelegateDemo.genruntimeconfig.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\DelegateDemo\obj\Debug\net8.0\ref\DelegateDemo.dll
