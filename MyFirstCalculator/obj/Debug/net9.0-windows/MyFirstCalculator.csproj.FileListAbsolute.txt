@@ -1,0 +1,16 @@
+C:\Users\lab_services_student\Desktop\C# Projects\MyFirstCalculator\bin\Debug\net9.0-windows\MyFirstCalculator.exe
+C:\Users\lab_services_student\Desktop\C# Projects\MyFirstCalculator\bin\Debug\net9.0-windows\MyFirstCalculator.deps.json
+C:\Users\lab_services_student\Desktop\C# Projects\MyFirstCalculator\bin\Debug\net9.0-windows\MyFirstCalculator.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\C# Projects\MyFirstCalculator\bin\Debug\net9.0-windows\MyFirstCalculator.dll
+C:\Users\lab_services_student\Desktop\C# Projects\MyFirstCalculator\bin\Debug\net9.0-windows\MyFirstCalculator.pdb
+C:\Users\lab_services_student\Desktop\C# Projects\MyFirstCalculator\obj\Debug\net9.0-windows\MyFirstCalculator.FormCalculator.resources
+C:\Users\lab_services_student\Desktop\C# Projects\MyFirstCalculator\obj\Debug\net9.0-windows\MyFirstCalculator.csproj.GenerateResource.cache
+C:\Users\lab_services_student\Desktop\C# Projects\MyFirstCalculator\obj\Debug\net9.0-windows\MyFirstCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\C# Projects\MyFirstCalculator\obj\Debug\net9.0-windows\MyFirstCalculator.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\C# Projects\MyFirstCalculator\obj\Debug\net9.0-windows\MyFirstCalculator.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\C# Projects\MyFirstCalculator\obj\Debug\net9.0-windows\MyFirstCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\C# Projects\MyFirstCalculator\obj\Debug\net9.0-windows\MyFirstCalculator.dll
+C:\Users\lab_services_student\Desktop\C# Projects\MyFirstCalculator\obj\Debug\net9.0-windows\refint\MyFirstCalculator.dll
+C:\Users\lab_services_student\Desktop\C# Projects\MyFirstCalculator\obj\Debug\net9.0-windows\MyFirstCalculator.pdb
+C:\Users\lab_services_student\Desktop\C# Projects\MyFirstCalculator\obj\Debug\net9.0-windows\MyFirstCalculator.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\C# Projects\MyFirstCalculator\obj\Debug\net9.0-windows\ref\MyFirstCalculator.dll
