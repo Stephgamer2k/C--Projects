@@ -1,0 +1,15 @@
+C:\Users\lab_services_student\Desktop\C--Projects\Delegates&EventsActivity\bin\Debug\net8.0\Delegates&EventsActivity.exe
+C:\Users\lab_services_student\Desktop\C--Projects\Delegates&EventsActivity\bin\Debug\net8.0\Delegates&EventsActivity.deps.json
+C:\Users\lab_services_student\Desktop\C--Projects\Delegates&EventsActivity\bin\Debug\net8.0\Delegates&EventsActivity.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\C--Projects\Delegates&EventsActivity\bin\Debug\net8.0\Delegates&EventsActivity.dll
+C:\Users\lab_services_student\Desktop\C--Projects\Delegates&EventsActivity\bin\Debug\net8.0\Delegates&EventsActivity.pdb
+C:\Users\lab_services_student\Desktop\C--Projects\Delegates&EventsActivity\obj\Debug\net8.0\Delegates&EventsActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\C--Projects\Delegates&EventsActivity\obj\Debug\net8.0\Delegates&EventsActivity.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\C--Projects\Delegates&EventsActivity\obj\Debug\net8.0\Delegates&EventsActivity.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\C--Projects\Delegates&EventsActivity\obj\Debug\net8.0\Delegates&EventsActivity.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\C--Projects\Delegates&EventsActivity\obj\Debug\net8.0\Delegates&EventsActivity.sourcelink.json
+C:\Users\lab_services_student\Desktop\C--Projects\Delegates&EventsActivity\obj\Debug\net8.0\Delegates&EventsActivity.dll
+C:\Users\lab_services_student\Desktop\C--Projects\Delegates&EventsActivity\obj\Debug\net8.0\refint\Delegates&EventsActivity.dll
+C:\Users\lab_services_student\Desktop\C--Projects\Delegates&EventsActivity\obj\Debug\net8.0\Delegates&EventsActivity.pdb
+C:\Users\lab_services_student\Desktop\C--Projects\Delegates&EventsActivity\obj\Debug\net8.0\Delegates&EventsActivity.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\C--Projects\Delegates&EventsActivity\obj\Debug\net8.0\ref\Delegates&EventsActivity.dll
